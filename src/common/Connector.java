@@ -62,7 +62,7 @@ public class Connector {
 		
 		
 		try {
-			connectionWithDB = DriverManager.getConnection(url, login, password);
+			connectionWithDB = DriverManager.getConnection("jdbc:mysql://sql11.freesqldatabase.com:3306/sql11223218", "sql11223218", "2SekpEkkhQ");
 			myStatement = connectionWithDB.createStatement();
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
