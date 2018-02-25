@@ -72,7 +72,7 @@ public class AdminWindow extends JFrame {
 			e.printStackTrace();
 		}
 
-		adminPassword = properties.getProperty("admin");
+		adminPassword = "admin";
 
 		window.setEnabled(false);
 		setTitle("Administrator");
