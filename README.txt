@@ -1,6 +1,6 @@
 Aplikacja ³¹czy siê z zewnêtrznym serwerem bazodanowym. Pobiera informacje i wyœwietla wyniki. Aplikacja mia³a na celu przypominaæ serwis 'transfermarkt.de'. 
 
-Uruchomiæ plik 'FootballMarket.jar'.
+Uruchomiæ plik 'FootballMarket'.
 
 Funkcje aplikacji:
 -wyœwietlenie informacji o transferach, pi³karzach, klubach i ligach,
