@@ -1,14 +1,27 @@
-Aplikacja ³¹czy siê z zewnêtrznym serwerem bazodanowym. Pobiera informacje i wyœwietla wyniki. Aplikacja mia³a na celu przypominaæ serwis 'transfermarkt.de'. 
+#Transfermarkt v1.0
 
-Uruchomiæ plik 'FootballMarket'.
+This is the first version of transfermarkt information storage application in football world. It was written in the 3rd year of my engineering studies.
 
-Funkcje aplikacji:
--wyœwietlenie informacji o transferach, pi³karzach, klubach i ligach,
--sortowanie wyœwietlanych wyników po klikniêciu na nazwê kolumny,
--wyszukiwanie rekordów w tabelach,
--w³¹czenie trybu administratora,
--(admin)dodawanie, modyfikowanie i usuwanie rekordów z bazy,
--statusbar z aktualnie wykonan¹ czynnoœci¹.
+## Used technologies/tools
 
-Has³o do trybu administratora: 'admin'.
+- Java 1.6
+- Swing
+- Swing Builder
+- SQL
+- Eclipse
+
+## Launching
+
+Run 'FootballMarket.exe'. 
+
+## Features
+
+- displaying information about transfers, players, clubs and leagues,
+- sorting the displayed results after clicking on the column name,
+- searching for records in tables,
+- enabling administrator mode,
+- (admin mode) adding, modifying and deleting records from the database,
+- statusbar with the currently performed action.
+
+Admin mode password is 'admin'.
 
